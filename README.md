@@ -39,7 +39,7 @@
   <h3 align="center">Note Taker</h3>
 
   <p align="center">
-    A simple note taker mad with express and deployed with heroku!
+    A simple note taker made with express and deployed with heroku!
     <br />
     <a href="https://github.com/Carson133/noteTaker"><strong>Explore the docs »</strong></a>
     <br />
